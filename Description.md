@@ -1,14 +1,15 @@
-Description
+Description.
+
 The basic idea behind rose from the online classes of batch K20, as the college is the place where senior guidance is really important, it was hard for us to find our ideal seniors to look up for as there are so many people with so many skills out in the college, things were pretty difficult to get the right direction. So we plan on building a personal community platform exclusively for BITM students where they can make there profiles, share/link their achievements and projects, their contact information(email, Ph etc.) so the coming batches can easily look up for the perfect senior with the specific skill for their guidance which will save them a ton of time, also(if becomes popular) can be used as portfolio for on-campus placements, which would help companies realize how students stack up against each other.
 
-So we plan to break this project into three major components:-
+So we plan to break this project into five major components:-
 1. The Design-
 We plan on taking this step seriously as more the captivating and easy to use the platform is more will be the engagement and usage of it. also structure of this will be really important
 2. The frontend-
 No matter how good the design is, it needs to be built correctly and intelligently.
 3. The Dev-a-Bit rating-
 rating will be based on the skills and achievements of the individual and will be given by Admins Solely.
-4. Open Source Proposition-
+5. Open Source Proposition-
 Dev-a-Bit proposes students to contribute so that its up-to-date and never becomes bygone, allowance of the change is to be again made by admins. 
 4. DBMS(for future)
 We all know the data is everything and as this platform expands we would really like to work brains on its management in future.
